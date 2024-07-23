@@ -1,2 +1,5 @@
-# Introduction_to_Data_Science_with_Python
-This is a tutorial notebook going through the basics of Python as well as Pandas, Matplotlib, and Seaborn.
+# Introduction to Data Science with Python
+The notebook has been divided into 3 main sections:
+- Getting Started with Python
+- Data Analysis and Manipulation with Pandas
+- Data Visualization with Matplotlib and Seaborn
