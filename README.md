@@ -1,5 +1,5 @@
 # Introduction to Data Science with Python
-This notebook will cover the follwing topics:
+This notebook covers the follwing topics:
 - **Getting Started with Python**
   1. Variables and Operators
   2. Lists
